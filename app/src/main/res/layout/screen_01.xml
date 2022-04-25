@@ -18,7 +18,7 @@
         app:srcCompat="@drawable/intersect" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnSigiin"
         android:layout_width="236dp"
         android:layout_height="69dp"
         android:backgroundTint="#EF77B0"
@@ -36,7 +36,7 @@
         app:layout_constraintVertical_bias="0.554" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btnregister"
         android:layout_width="238dp"
         android:layout_height="62dp"
         android:layout_marginTop="148dp"
